@@ -11,11 +11,11 @@ Aiffel에서 진행한 Exploration 노드관련 코드들입니다!
 
 
 -  ### [1. 멋진 단어사전 만들기](https://github.com/minsung6333/AIFFEL_Project/blob/main/1_%E1%84%86%E1%85%A5%E1%86%BA%E1%84%8C%E1%85%B5%E1%86%AB_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB_%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5_%5B%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%5D.ipynb)
-	- 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-	- 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
-    퀘스트 문제 요구조건 등을 지칭
-	- 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
+	- SentencePiece를 통해 만든 Tokenizer 만들기
+	- Konlpy 형태소 분석기와 비교 분석 진행
 - ### [2. 뉴스 카테고리 다중분류](https://github.com/minsung6333/AIFFEL_Project/blob/main/2_%EB%89%B4%EC%8A%A4_%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC_%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98_%5B%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D.ipynb)
+	- 뉴스 카테고리 다중분류 진행
+ 	- naive_bayes, Complement_Naive_Bayes, LogisticRegression, Linear_Support_Vector_Classifier, DecisionTree, RandomForest, GradientBoosting, Voting 비교분석
 
 - ### [3. 모든 장르 간 편향성 측정해보기](https://github.com/minsung6333/AIFFEL_Project/blob/main/3_%EB%AA%A8%EB%93%A0_%EC%9E%A5%EB%A5%B4_%EA%B0%84_%ED%8E%B8%ED%96%A5%EC%84%B1_%EC%B8%A1%EC%A0%95%ED%95%B4_%EB%B3%B4%EA%B8%B0_%5Bproject%5D.ipynb)
 - ### [4. Seq2Seq로 번역기 만들기](https://github.com/minsung6333/AIFFEL_Project/blob/main/4_Seq2Seq%EB%A1%9C_%EB%B2%88%EC%97%AD%EA%B8%B0_%EB%A7%8C%EB%93%A4%EA%B8%B0_%5B%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D.ipynb)
